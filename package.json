@@ -1,0 +1,30 @@
+{
+  "name": "use-state-once",
+  "version": "1.0.0",
+  "description": "upgrade useState, let the state been initialized only one time",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/concentjs/use-state-once.git"
+  },
+  "keywords": [
+    "use-state-once",
+    "useState",
+    "useStateOnce",
+    "react",
+    "react hook"
+  ],
+  "author": "fantasticsoul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/concentjs/use-state-once/issues"
+  },
+  "homepage": "https://github.com/concentjs/use-state-once#readme",
+  "dependencies": {
+    "react": "^16.8.6"
+  }
+}
